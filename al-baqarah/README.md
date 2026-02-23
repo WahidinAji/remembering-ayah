@@ -1,3 +1,3 @@
 | Topic | Ayah | Key | ID | Hadist |
-|---|---|---|---|
+|---|---|---|---|---|
 | Shalat | 238 | _wusțā_ | Peliharalah Semua salat dan salat _wusțā_. Dan Laksanakanlah (salat) karena Allah dengan khusyuk | [Hadits Jami' At-Tirmidzi No. 181 - Kitab Kitab Shalat](https://www.hadits.id/hadits/tirmidzi/181), [Hadits Shahih Muslim No. 628 - Kitab Kitab Masjid dan Tempat Shalat](https://www.hadits.id/hadits/muslim/628), [Hadits Shahih Muslim No. 631 - Kitab Kitab Masjid dan Tempat Shalat](https://www.hadits.id/hadits/muslim/631), [Hadits Shahih Al-Bukhari No. 4534 - Kitab Kitab Tafsir](https://www.hadits.id/hadits/bukhari/4534) |
